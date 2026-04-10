@@ -1,0 +1,19 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" rx="40" fill="black"></rect>
+
+  <!-- Sparkle -->
+  <polygon points="40,40 45,55 60,60 45,65 40,80 35,65 20,60 35,55" fill="url(#gold)"></polygon>
+
+  <!-- DS Text -->
+  <text x="50%" y="60%" text-anchor="middle" fill="url(#gold)" font-family="Playfair Display, serif" font-size="80" font-weight="bold">
+        DS
+  </text>
+
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFD700"></stop>
+      <stop offset="50%" stop-color="#C9A227"></stop>
+      <stop offset="100%" stop-color="#FFF3B0"></stop>
+    </linearGradient>
+  </defs>
+</svg>
